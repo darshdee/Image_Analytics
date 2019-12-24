@@ -1,7 +1,7 @@
 # Image Processing
 
 ### Overview
-In this small, self-guided project I explore my curiosity for the "newly" developing and growing domain of image analytics. I employ the use of open-source examples and learn how to perform fundamental image processing techniques on a variety of existing images as well on live video. 
+In this small, self-guided project I explore my curiosity for the "newly" developing and growing domain of image analytics. I employ the use of open-source examples and learn how to perform fundamental image processing techniques on a variety of existing images as well on live video. The specific python libraries explored here are OpenCV & PIL
 
 Examples of some image processing techniques I explore here as follows:
 - Blurring & Smoothing
